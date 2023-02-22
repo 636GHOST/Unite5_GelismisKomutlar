@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Unite5_GelismisKomutlar</string>
+   <string name="uyg1">1.Uygulama(Selam Ver)</string>
+    <string name="uyg2">2.Uygulama()</string>
+    <string name="uyg3">3.Uygulama()</string>
+    <string name="uyg4">4.Uygulama()</string>
+    <string name="uyg5">5.Uygulama()</string>
+    <string name="uyg6">6.Uygulama()</string>
+    <string name="uyg7">7.Uygulama()</string>
+    <string name="uyg8">8.Uygulama()</string>
+    <string name="uyg9">9.Uygulama()</string>
+    <string name="uyg10">10.Uygulama()</string>
+    <string name="uyg11">11.Uygulama()</string>
+    <string name="uyg12">12.Uygulama()</string>
+    <string name="uyg13">13.Uygulama()</string>
+</resources>
+
